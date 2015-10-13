@@ -1,0 +1,49 @@
+#marked by Phosphorus15#
+
+####################
+#Enable this plugin#
+####################
+
+Enable: true
+
+########################
+#ratio of head dropping#
+########################
+
+Ratio: 'ALWAYS'
+
+################################
+#if don't need enchantment and #
+#want to use the prepared ratio#
+#,please set this to 3,if you  #
+#want to use custom ratio,set  #
+#it to 1                       #
+################################
+
+Default-Level: 3  
+
+#########################
+#Need Enchantment or not#
+#########################
+
+Need-Enchantment: true
+
+Enchantment-Id: 21
+
+###################################
+#maximize skull dropping per sword#
+###################################
+
+Maximize: 1
+
+############################
+#Record the name of victims#
+############################
+
+Record: true
+
+################################
+#kill out of maximize broadcast#
+################################
+
+KOB: false #invalid temporarily#

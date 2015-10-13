@@ -1,0 +1,8 @@
+name: SkullDropping
+main: net.steepout.plugin.sd.PluginMain
+version: 1.0.0
+author: Phosphorus15
+commands:
+  sd:
+  skull-dropping:
+
